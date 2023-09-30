@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ### Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ranzivillaruz)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ranzivillaruz&theme=ocean-dark&border_radius=40)](https://git.io/streak-stats)
 
 # Technologies
 

@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 ### Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=ranzivillaruz&theme=ocean-dark&border_radius=40)](https://git.io/streak-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranziviilaruz&hide_progress=true)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranzivillaruz)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # Technologies
 

@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am Ranzi, Computer Engineering student from Polytechnic University of the Philipppines
-Aspiring Web and Mobile Developer
+I am Ranzi, a Computer Engineering student at the Polytechnic University of the Philippines, aspiring to become a Web and Mobile Developer
 
 ### Im currently Learning
 
